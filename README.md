@@ -1,2 +1,2 @@
-# SOLER-EXAM-frontend
+# SOLVER-EXAM-frontend
 partie frontend de notre application
